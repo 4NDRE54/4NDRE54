@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm André Schaprian</h1>
 <h3 align="center">A passionate Data Analyst from Germany</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=790b7611d2ec184aa0322748a7ea20844447110313b8c5e7&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=790b761132a2b9aa229bbadcd0d3afc0b687154d934b15eb&rid=giphy.gif&ct=g">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
